@@ -1,6 +1,4 @@
-Perfect — I’ll craft you a **detailed README.md** for your ATS Resume Expert based exactly on the code you uploaded (`app.py`). This will be comprehensive: setup, features, workflow, tech details, and usage instructions — basically plug-and-play for GitHub or project submission.
 
----
 
 # 📄 ATS Resume Expert
 
