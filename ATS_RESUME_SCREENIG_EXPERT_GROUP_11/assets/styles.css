@@ -1,0 +1,46 @@
+/* General Background */
+body {
+    background-color: #F5F6F5; 
+    color: #333333; 
+}
+
+/* Sidebar Styling */
+.sidebar .css-1d391kg {
+    background-color: #2A3B5A; 
+}
+
+/* Header Text */
+h1, h2, h3, h4, h5, h6 {
+    color: #0077B6; 
+    font-family: "Roboto", sans-serif;
+    font-weight: 600; 
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #00AEEF;
+    color: #FFFFFF; 
+    border: none;
+    border-radius: 8px; 
+    padding: 8px 16px; 
+    transition: background-color 0.3s ease; 
+}
+
+.stButton > button:hover {
+    background-color: #005F8C; 
+    color: #FFFFFF;
+}
+
+/* Sidebar Title */
+.sidebar .css-1d391kg h1 {
+    color: #FFFFFF; 
+    text-align: center;
+    font-weight: 500; 
+}
+
+/* Resume Preview Box */
+.stImage {
+    border: 1px solid #D3D3D3; 
+    border-radius: 6px; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+}
